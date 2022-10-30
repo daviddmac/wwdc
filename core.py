@@ -1,7 +1,6 @@
 import re
 import random
 import os
-from tkinter import W
 
 def download(url,
              target_filename,
