@@ -55,4 +55,3 @@ else :
     savelocation = (fr"~/Desktop/{filename}.png")
 from processing_py import *
 exec(thecode)
-print(thecode)
